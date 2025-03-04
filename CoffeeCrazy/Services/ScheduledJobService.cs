@@ -11,7 +11,7 @@ namespace CoffeeCrazy.Services
         public ScheduledJobService(IJobRepo jobRepo, ICRUDRepo<Machine> machineRepo)
         {
             _jobRepo = jobRepo;
-            _machineRepo = machineRepo;
+            _machineRepo = machineRepo; 
         }
 
         /// <summary>
