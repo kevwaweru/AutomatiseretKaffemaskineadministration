@@ -1,4 +1,4 @@
-#AI Generated READNE
+//AI Generated READNE
 # Automatiseret Kaffemaskineadministration
 
 ## Introduction
@@ -67,6 +67,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or inquiries, please contact the project maintainer:
 - **Name**: Kevin Waweru
-- **Email**: kevwaweru@example.com
+- **Email**: wawerukew@gmail.com
 
 We hope you find the Automatiseret Kaffemaskineadministration project useful and look forward to your contributions!
