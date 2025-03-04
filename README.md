@@ -3,12 +3,10 @@
 
 ## Introduction
 
-Automatiseret Kaffemaskineadministration is a project aimed at automating the management of coffee machines. This includes features such as scheduling coffee brewing, monitoring coffee levels, and maintaining machine health. The goal is to streamline the coffee-making process, ensuring that coffee is always ready when needed and machines are kept in optimal condition.
+Automatiseret Kaffemaskineadministration is a project aimed at automating the management of coffee machines.
 
 ## Features
 
-- **Automated Scheduling**: Schedule coffee brewing times to ensure coffee is ready when you need it.
-- **Level Monitoring**: Monitor coffee levels to prevent running out of coffee unexpectedly.
 - **Maintenance Alerts**: Receive notifications when the coffee machine requires maintenance.
 - **User Management**: Manage multiple users with different permissions and preferences.
 
