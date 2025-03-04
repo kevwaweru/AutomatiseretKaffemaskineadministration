@@ -1,4 +1,4 @@
-//AI Generated READNE
+//AI Generated README
 # Automatiseret Kaffemaskineadministration
 
 ## Introduction
